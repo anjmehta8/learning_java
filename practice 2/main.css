@@ -1,0 +1,175 @@
+body {
+    background-color: rgb(123,124,125);
+    position: relative;
+}
+.wrapper{
+    height: 600px;
+    background-color: white;
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.col_1 {
+    height: 600px ; 
+    background-color: white; 
+}
+.col_2 {
+    height: 600px ; 
+    background-color: #d6cece; 
+}
+.player_name {
+    text-align: center; 
+    margin-top: 80px;
+    font-weight: 200;
+    letter-spacing: 5px;
+}
+.score {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 70px;
+    font-weight: 200;
+}
+.boxy {
+    position: relative;
+    height: 100%;
+}
+.box {
+    width: 135px;
+    height: 100px;
+    background-color: salmon ;
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.row_1 {
+    height: 300px;
+}
+.row_2 {
+    height: 300px;
+}
+.boxscore {
+    text-align: center;
+    position: absolute; 
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.boxscorescore {
+    text-align: center;
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.seperatethings {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    color: black;
+    margin-bottom: 70px;
+}
+.row {
+    position: relative; 
+    width: 100%;
+}
+.seperateimages_1 {
+    /* position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-330%,-50%); */
+    height: 100px;
+    width: 100px;
+}
+.row_22 {
+    position: relative; 
+    width: 100%;
+}
+.seperateimages_2 {
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-330%,-50%);
+    height: 35px;
+    width: 35px;
+}
+.row_33 {
+    position: relative; 
+    width: 100%;
+}
+.seperateimages_3 {
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-330%,-50%);
+    height: 35px;
+    width: 35px;
+}
+.seperatethings_2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    color: black;
+    margin-bottom: 30px;
+    margin-top: 70px;
+}
+.seperatethings_3 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    color: black;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.rowforimages{
+    position: relative;
+}
+.rowforimagesyes {
+    width: 80px;
+    height: 80px;
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.container_1 img {
+    width: 100%;
+ 
+}
+.newgameimage {
+    width: 45%;
+    margin: 0;
+    padding: 0%;
+    
+}
+.container_1{
+    width: 40%;
+    margin:auto;
+}
+.newgame {
+    padding: 0%;
+    margin-left:-35px;
+    font-size: 25;
+}
+.newgameimagecol {
+    padding: 0%;
+}
+.newgamecol {
+    padding: 0%;
+}
+.newgamepic img {
+    height: 35px;
+    width: 35px;
+}
+.container0_1{
+    text-align: center;
+    margin-top: -600px;
+    position: absolute;
+}
+.container0_2{
+    margin:2px !important;
+    text-align: center;
+}
